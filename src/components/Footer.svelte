@@ -41,9 +41,7 @@ import Twiter from '$lib/images/footer/Twiter.png'
         Lorem Ipsum simply dummy text of the printing </p>
 
         <div class=" flex gap-x-4 mt-10">
-            <div class=" bg-[#dbf8e3] p-5 rounded-full">
-                <img src="/src/lib/images/footer/insta.png" alt="">
-            </div>
+           
             <div class=" bg-[#dbf8e3] p-5 rounded-full">
                 <img src={fb} alt="">
             </div>
